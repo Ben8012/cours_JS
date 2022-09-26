@@ -1,0 +1,15 @@
+html{
+    font-family:'Comic sans ms';
+}
+
+.error{
+    color: crimson;
+}
+
+#result{
+    border: solid 1px black;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 1%;
+    border-radius: 5px;
+}
